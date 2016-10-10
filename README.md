@@ -1,0 +1,2 @@
+# EasyObbDownloader
+此项目用于Unity项目上架谷歌play后的Obb下载
